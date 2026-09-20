@@ -3,6 +3,12 @@ I am ingesting real-time data
 
 New data Ingested
 
+<<<<<<< HEAD
 
 Hey master is here, allow me also to contribute to the project
 
+=======
+kodam here, I am ingesting real-time data.
+
+
+>>>>>>> feature_kodam_1
