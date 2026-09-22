@@ -9,3 +9,5 @@ I am ingesting data
 I am ingesting more data
 
 I am ingesting batch data
+
+i am a serious AI developer
